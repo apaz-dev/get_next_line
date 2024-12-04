@@ -171,4 +171,4 @@ This function has the same logic as the previous one but instead of copying from
 
 ## Resources
 
-- [Tests](https://github.com/WaRtr0/francinette-image
+- [Tests](https://github.com/WaRtr0/francinette-image)
